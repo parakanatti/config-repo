@@ -9,6 +9,6 @@ management:
       exposure:
        include: health,info,refresh
   endpoints:
-    helath:
+    health:
      show-details : always
       
