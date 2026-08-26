@@ -1,5 +1,5 @@
 global:
-  message : welcom to global microservice environment::
+  message : "welcom to global microservice environment::"
 logging:
   level:
     root: INFO
